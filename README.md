@@ -8,7 +8,7 @@ Explore US Bikeshare Data
 
 ### Description
 This project compared and anazlyzed data across three different US cities (chicago, new york city, washington)
-
+Using python code, data was imported and interesting questions were answered about it by statistics.
 
 ### Files used
 bikeshare.py
