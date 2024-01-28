@@ -7,7 +7,8 @@
 Explore US Bikeshare Data
 
 ### Description
-Thisb project compared and anazlyzed data across three different US cities (chicago, new york city, washington)
+This project compared and anazlyzed data across three different US cities (chicago, new york city, washington)
+
 
 ### Files used
 bikeshare.py
@@ -16,5 +17,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+My friend, Ty
 
