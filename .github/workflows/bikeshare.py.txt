@@ -159,10 +159,10 @@ def user_stats(df):
       print("\nEarliest Year:\nNo data available for this month.")
 
     try:
-      Most_Recent_Year = df['Birth Year'].max()
+      Most_Recent_Birth_Year = df['Birth Year'].max()
       print('\nMost Recent Year:', Most_Recent_Year)
     except KeyError:
-      print("\nMost Recent Year:\nNo data available for this month.")
+      print("\nMost Recent Birth Year:\nNo data available for this month.")
 
     try:
       Most_Common_Birth_Year = df['Birth Year'].value_counts().idxmax()
